@@ -8,7 +8,7 @@ Kill the Process ("the app") is a game made by Taha Murtaza. This policy explain
 None. The app does not collect, transmit or share any personal or device data.
 
 ## Data stored on your device
-The app saves your game progress (stars, best scores and settings) on your device only. The app never sends it to the developer or anyone else. Uninstalling the app or clearing its data deletes it.
+The app saves your game progress and statistics (stars, scores, run history and settings) on your device only.
 
 ## Device backup
 If Android's backup feature is turned on, Android may include the app's saved progress in your personal device backup, which Google manages under your Google account. The developer cannot access it.
